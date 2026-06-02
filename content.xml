@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260530210801N1N26N</value>
+    <value>20260602195223FCICU2</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260530210801N1J5T2</value>
+    <value>20260602195223GZSMLZ</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1780168028202</value>
+    <value>1780421933490</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgj-tj16rzuqm</odePageId>
+  <odePageId>page-mpwx900q-p7jltdny4</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¿En qué consiste el proyecto?</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgj-tj16rzuqm</odePageId>
+      <odePageId>page-mpwx900q-p7jltdny4</odePageId>
       <odeBlockId>block-1779990726294-jnq3sod8k</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgj-tj16rzuqm</odePageId>
+          <odePageId>page-mpwx900q-p7jltdny4</odePageId>
           <odeBlockId>block-1779990726294-jnq3sod8k</odeBlockId>
           <odeIdeviceId>idevice-1779990726291-uzph2v2fr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -200,7 +200,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgn-kswnv1tew</odePageId>
+  <odePageId>page-mpwx900w-e9y8iq7jy</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>🏁Nuestro reto final</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -236,7 +236,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgn-kswnv1tew</odePageId>
+      <odePageId>page-mpwx900w-e9y8iq7jy</odePageId>
       <odeBlockId>block-1779992624626-0f8osvr2g</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -265,7 +265,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgn-kswnv1tew</odePageId>
+          <odePageId>page-mpwx900w-e9y8iq7jy</odePageId>
           <odeBlockId>block-1779992624626-0f8osvr2g</odeBlockId>
           <odeIdeviceId>idevice-1779992624623-pb845lf2x</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -319,7 +319,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgo-w49v4qho8</odePageId>
+  <odePageId>page-mpwx900y-4lnz7s8xc</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>🧩 Actividades</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -355,7 +355,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgo-w49v4qho8</odePageId>
+      <odePageId>page-mpwx900y-4lnz7s8xc</odePageId>
       <odeBlockId>block-1779993595564-ua5xks45w</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -384,7 +384,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgo-w49v4qho8</odePageId>
+          <odePageId>page-mpwx900y-4lnz7s8xc</odePageId>
           <odeBlockId>block-1779993595564-ua5xks45w</odeBlockId>
           <odeIdeviceId>idevice-1779993595561-wd2e9yx6e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -450,7 +450,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgo-7pd0pamh0</odePageId>
+  <odePageId>page-mpwx9010-h8sha1opq</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>🕒 Organización del proyecto</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -486,7 +486,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgo-7pd0pamh0</odePageId>
+      <odePageId>page-mpwx9010-h8sha1opq</odePageId>
       <odeBlockId>block-1779996306363-4t4p62wnn</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -515,7 +515,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgo-7pd0pamh0</odePageId>
+          <odePageId>page-mpwx9010-h8sha1opq</odePageId>
           <odeBlockId>block-1779996306363-4t4p62wnn</odeBlockId>
           <odeIdeviceId>idevice-1779996306361-mbn179ss7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -550,7 +550,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgp-vjpy85bcg</odePageId>
+  <odePageId>page-mpwx9011-ylojjemvb</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>🔐Seguridad digital</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -586,7 +586,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgp-vjpy85bcg</odePageId>
+      <odePageId>page-mpwx9011-ylojjemvb</odePageId>
       <odeBlockId>block-1779996896335-qdmknslvr</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -615,7 +615,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgp-vjpy85bcg</odePageId>
+          <odePageId>page-mpwx9011-ylojjemvb</odePageId>
           <odeBlockId>block-1779996896335-qdmknslvr</odeBlockId>
           <odeIdeviceId>idevice-1779996896332-36298buzd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -660,7 +660,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgq-ejq2w7ilb</odePageId>
+  <odePageId>page-mpwx9012-kjxsyw7og</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>💻 Herramientas digitales</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -696,7 +696,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgq-ejq2w7ilb</odePageId>
+      <odePageId>page-mpwx9012-kjxsyw7og</odePageId>
       <odeBlockId>block-1779999889069-4uvx8z34e</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -725,7 +725,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgq-ejq2w7ilb</odePageId>
+          <odePageId>page-mpwx9012-kjxsyw7og</odePageId>
           <odeBlockId>block-1779999889069-4uvx8z34e</odeBlockId>
           <odeIdeviceId>idevice-1779999889065-n66m0i5g5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -752,7 +752,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpsq2xgq-ejq2w7ilb</odePageId>
+      <odePageId>page-mpwx9012-kjxsyw7og</odePageId>
       <odeBlockId>block-1780154975610-xd46a98o3</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -781,7 +781,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgq-ejq2w7ilb</odePageId>
+          <odePageId>page-mpwx9012-kjxsyw7og</odePageId>
           <odeBlockId>block-1780154975610-xd46a98o3</odeBlockId>
           <odeIdeviceId>idevice-1780154975609-wa2g1gqqd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -850,7 +850,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgq-2grn9alol</odePageId>
+  <odePageId>page-mpwx9014-n5f1y6jk5</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>📚 Recursos</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -886,7 +886,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgq-2grn9alol</odePageId>
+      <odePageId>page-mpwx9014-n5f1y6jk5</odePageId>
       <odeBlockId>block-1780157296847-tm3vfq7h3</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -915,7 +915,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgq-2grn9alol</odePageId>
+          <odePageId>page-mpwx9014-n5f1y6jk5</odePageId>
           <odeBlockId>block-1780157296847-tm3vfq7h3</odeBlockId>
           <odeIdeviceId>idevice-1780157296845-ewb79p8rq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -949,8 +949,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgr-swptm8aal</odePageId>
-  <odeParentPageId>page-mpsq2xgq-2grn9alol</odeParentPageId>
+  <odePageId>page-mpwx9015-9c6jfz7og</odePageId>
+  <odeParentPageId>page-mpwx9014-n5f1y6jk5</odeParentPageId>
   <pageName>👧👦  Recursos para el alumnado</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -985,7 +985,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgr-swptm8aal</odePageId>
+      <odePageId>page-mpwx9015-9c6jfz7og</odePageId>
       <odeBlockId>block-1780157421110-z0p80lcr7</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1014,7 +1014,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgr-swptm8aal</odePageId>
+          <odePageId>page-mpwx9015-9c6jfz7og</odePageId>
           <odeBlockId>block-1780157421110-z0p80lcr7</odeBlockId>
           <odeIdeviceId>idevice-1780157421109-clpby7r61</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1051,8 +1051,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgs-t7jpn45o0</odePageId>
-  <odeParentPageId>page-mpsq2xgq-2grn9alol</odeParentPageId>
+  <odePageId>page-mpwx9016-s5hgkms7y</odePageId>
+  <odeParentPageId>page-mpwx9014-n5f1y6jk5</odeParentPageId>
   <pageName>🧑‍🎓 Recursos para el profesorado</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1087,7 +1087,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgs-t7jpn45o0</odePageId>
+      <odePageId>page-mpwx9016-s5hgkms7y</odePageId>
       <odeBlockId>block-1780158030426-cvzwke2ub</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1116,7 +1116,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgs-t7jpn45o0</odePageId>
+          <odePageId>page-mpwx9016-s5hgkms7y</odePageId>
           <odeBlockId>block-1780158030426-cvzwke2ub</odeBlockId>
           <odeIdeviceId>idevice-1780158030425-rlke5d0q2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1152,7 +1152,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgs-o9dejrkmo</odePageId>
+  <odePageId>page-mpwx9017-gjez4icmw</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>✅ Evaluación</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -1188,7 +1188,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgs-o9dejrkmo</odePageId>
+      <odePageId>page-mpwx9017-gjez4icmw</odePageId>
       <odeBlockId>block-1780158591316-xsd7h6vkc</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1217,7 +1217,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgs-o9dejrkmo</odePageId>
+          <odePageId>page-mpwx9017-gjez4icmw</odePageId>
           <odeBlockId>block-1780158591316-xsd7h6vkc</odeBlockId>
           <odeIdeviceId>idevice-1780158591314-jzpepdixm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1254,8 +1254,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgs-nbzwsf8lo</odePageId>
-  <odeParentPageId>page-mpsq2xgs-o9dejrkmo</odeParentPageId>
+  <odePageId>page-mpwx9018-irloz97k6</odePageId>
+  <odeParentPageId>page-mpwx9017-gjez4icmw</odeParentPageId>
   <pageName>📝 Criterios de evaluación</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1290,7 +1290,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgs-nbzwsf8lo</odePageId>
+      <odePageId>page-mpwx9018-irloz97k6</odePageId>
       <odeBlockId>block-1780159809918-zfcknckhi</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1319,7 +1319,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgs-nbzwsf8lo</odePageId>
+          <odePageId>page-mpwx9018-irloz97k6</odePageId>
           <odeBlockId>block-1780159809918-zfcknckhi</odeBlockId>
           <odeIdeviceId>idevice-1780159809908-56bwnmulg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1359,8 +1359,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgt-a4lftpbx5</odePageId>
-  <odeParentPageId>page-mpsq2xgs-o9dejrkmo</odeParentPageId>
+  <odePageId>page-mpwx9019-1tewfe0t1</odePageId>
+  <odeParentPageId>page-mpwx9017-gjez4icmw</odeParentPageId>
   <pageName>📋Rúbrica</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1395,7 +1395,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgt-a4lftpbx5</odePageId>
+      <odePageId>page-mpwx9019-1tewfe0t1</odePageId>
       <odeBlockId>block-1780160443104-3gas889zl</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1424,7 +1424,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgt-a4lftpbx5</odePageId>
+          <odePageId>page-mpwx9019-1tewfe0t1</odePageId>
           <odeBlockId>block-1780160443104-3gas889zl</odeBlockId>
           <odeIdeviceId>idevice-1780160443103-quuu9zqoq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1466,8 +1466,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgt-4a0ifgpiv</odePageId>
-  <odeParentPageId>page-mpsq2xgs-o9dejrkmo</odeParentPageId>
+  <odePageId>page-mpwx901a-eilc41e2y</odePageId>
+  <odeParentPageId>page-mpwx9017-gjez4icmw</odeParentPageId>
   <pageName>🎯 Diana de evaluación</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1502,7 +1502,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgt-4a0ifgpiv</odePageId>
+      <odePageId>page-mpwx901a-eilc41e2y</odePageId>
       <odeBlockId>block-1780160865449-qnx0dnier</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1531,7 +1531,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgt-4a0ifgpiv</odePageId>
+          <odePageId>page-mpwx901a-eilc41e2y</odePageId>
           <odeBlockId>block-1780160865449-qnx0dnier</odeBlockId>
           <odeIdeviceId>idevice-1780160865447-0bjnxtvjj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1547,11 +1547,13 @@
 </ul>
 <p>La idea es que os ayude a parar un momento y reflexionar sobre lo que habéis aprendido, qué os ha salido bien y qué podríais mejorar la próxima vez.</p>
 <p>No se trata solo de poner una nota. También servirá para revisar juntos qué partes del proyecto os han resultado más útiles, cuáles os han gustado más y cuáles han sido un poco más difíciles.</p>
-<figure class="exe-figure position-center" style="width: 557px;"><img src="{{context_path}}/content/resources/Diana de evaluación-Our Dream School Trip.jpg" width="557" height="788" alt="" />
+<figure class="exe-figure position-center" style="width: 585px;"><img src="{{context_path}}/content/resources/Ficha de trabajo de diana de evaluación del trabajo cooperativo minimalista turquesa y naranja.jpg" width="585" height="827" alt="" />
 <figcaption class="figcaption"><span class="author">Victoriano Moreno Crespillo</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
 </figure>
+<p></p>
+<p></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780160865447-0bjnxtvjj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Para qué sirve la diana de evaluación?</strong></p>\n<p>La diana de evaluación la completaremos al terminar el proyecto como una forma de pensar sobre cómo ha ido nuestro trabajo.</p>\n<p>A través de ella podréis valorar vuestra participación durante las diferentes actividades:</p>\n<ul>\n<li>cómo habéis colaborado con el grupo</li>\n<li>vuestro esfuerzo en las tareas</li>\n<li>el uso de las herramientas digitales </li>\n<li>el resultado final del viaje que habéis preparado.</li>\n</ul>\n<p>La idea es que os ayude a parar un momento y reflexionar sobre lo que habéis aprendido, qué os ha salido bien y qué podríais mejorar la próxima vez.</p>\n<p>No se trata solo de poner una nota. También servirá para revisar juntos qué partes del proyecto os han resultado más útiles, cuáles os han gustado más y cuáles han sido un poco más difíciles.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 557px;\"><img src=\"{{context_path}}/content/resources/Diana de evaluación-Our Dream School Trip.jpg\" width=\"557\" height=\"788\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Victoriano Moreno Crespillo</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780160865447-0bjnxtvjj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Para qué sirve la diana de evaluación?</strong></p>\n<p>La diana de evaluación la completaremos al terminar el proyecto como una forma de pensar sobre cómo ha ido nuestro trabajo.</p>\n<p>A través de ella podréis valorar vuestra participación durante las diferentes actividades:</p>\n<ul>\n<li>cómo habéis colaborado con el grupo</li>\n<li>vuestro esfuerzo en las tareas</li>\n<li>el uso de las herramientas digitales </li>\n<li>el resultado final del viaje que habéis preparado.</li>\n</ul>\n<p>La idea es que os ayude a parar un momento y reflexionar sobre lo que habéis aprendido, qué os ha salido bien y qué podríais mejorar la próxima vez.</p>\n<p>No se trata solo de poner una nota. También servirá para revisar juntos qué partes del proyecto os han resultado más útiles, cuáles os han gustado más y cuáles han sido un poco más difíciles.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 585px;\"><img src=\"{{context_path}}/content/resources/Ficha de trabajo de diana de evaluación del trabajo cooperativo minimalista turquesa y naranja.jpg\" width=\"585\" height=\"827\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Victoriano Moreno Crespillo</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1573,8 +1575,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgt-wg5ib5bq9</odePageId>
-  <odeParentPageId>page-mpsq2xgs-o9dejrkmo</odeParentPageId>
+  <odePageId>page-mpwx901b-weg9jdptm</odePageId>
+  <odeParentPageId>page-mpwx9017-gjez4icmw</odeParentPageId>
   <pageName>💬 Cuestionario final (Google Forms)</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1609,7 +1611,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgt-wg5ib5bq9</odePageId>
+      <odePageId>page-mpwx901b-weg9jdptm</odePageId>
       <odeBlockId>block-1780161218063-v2occ2d5d</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1638,7 +1640,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgt-wg5ib5bq9</odePageId>
+          <odePageId>page-mpwx901b-weg9jdptm</odePageId>
           <odeBlockId>block-1780161218063-v2occ2d5d</odeBlockId>
           <odeIdeviceId>idevice-1780161218062-uqz40pspr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1679,7 +1681,70 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgu-j4bdoip67</odePageId>
+  <odePageId>page-1780422407299-98ar8j7dt</odePageId>
+  <odeParentPageId>page-mpwx9017-gjez4icmw</odeParentPageId>
+  <pageName>📊 Tratamiento de variables e integración de datos</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📊 Tratamiento de variables e integración de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780422407299-98ar8j7dt</odePageId>
+      <odeBlockId>block-1780422410210-d01ms9xx7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780422407299-98ar8j7dt</odePageId>
+          <odeBlockId>block-1780422410210-d01ms9xx7</odeBlockId>
+          <odeIdeviceId>idevice-1780422410209-bagmac1sr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 301px;"><img src="{{context_path}}/content/resources/interpretacion.png" width="301" height="301" alt="" />
+<figcaption class="figcaption"><a href="https://www.flaticon.es/iconos-gratis/analizar" title="analizar iconos" class="author" target="_blank" rel="noopener">Eucalyp creado para Flaticon</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Durante el desarrollo del proyecto pueden surgir diferentes situaciones que influyan en el proceso de aprendizaje, como una participación desigual dentro de los grupos, dificultades para realizar la autoevaluación o pequeños problemas técnicos relacionados con las herramientas digitales. En estos casos se adoptarán las medidas necesarias para garantizar la participación de todo el alumnado y la continuidad de las actividades.</p>
+<p>La información obtenida mediante la rúbrica, la diana de evaluación y el cuestionario final de Google Forms se analizará de forma conjunta para obtener una visión más completa del proceso de aprendizaje.</p>
+<p>Los datos recogidos se registrarán de forma organizada en el cuaderno digital del profesorado o en una hoja de cálculo, facilitando la toma de decisiones y la adaptación de futuras propuestas a las necesidades reales del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780422410209-bagmac1sr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 301px;\"><img src=\"{{context_path}}/content/resources/interpretacion.png\" width=\"301\" height=\"301\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.flaticon.es/iconos-gratis/analizar\" title=\"analizar iconos\" class=\"author\" target=\"_blank\" rel=\"noopener\">Eucalyp creado para Flaticon</a>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Durante el desarrollo del proyecto pueden surgir diferentes situaciones que influyan en el proceso de aprendizaje, como una participación desigual dentro de los grupos, dificultades para realizar la autoevaluación o pequeños problemas técnicos relacionados con las herramientas digitales. En estos casos se adoptarán las medidas necesarias para garantizar la participación de todo el alumnado y la continuidad de las actividades.</p>\n<p>La información obtenida mediante la rúbrica, la diana de evaluación y el cuestionario final de Google Forms se analizará de forma conjunta para obtener una visión más completa del proceso de aprendizaje.</p>\n<p>Los datos recogidos se registrarán de forma organizada en el cuaderno digital del profesorado o en una hoja de cálculo, facilitando la toma de decisiones y la adaptación de futuras propuestas a las necesidades reales del alumnado.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpwx901c-v5z1p20gc</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>👩‍🏫 Guía didáctica</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -1715,7 +1780,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgu-j4bdoip67</odePageId>
+      <odePageId>page-mpwx901c-v5z1p20gc</odePageId>
       <odeBlockId>block-1780161806653-m9z45vhkr</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1744,7 +1809,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgu-j4bdoip67</odePageId>
+          <odePageId>page-mpwx901c-v5z1p20gc</odePageId>
           <odeBlockId>block-1780161806653-m9z45vhkr</odeBlockId>
           <odeIdeviceId>idevice-1780161806652-h3vymkgls</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1811,7 +1876,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpsq2xgu-4j7kvbx8j</odePageId>
+  <odePageId>page-mpwx901d-dsld5ftop</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>©️ Créditos</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -1847,7 +1912,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpsq2xgu-4j7kvbx8j</odePageId>
+      <odePageId>page-mpwx901d-dsld5ftop</odePageId>
       <odeBlockId>block-1780162939887-mlkyiklj9</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -1876,7 +1941,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpsq2xgu-4j7kvbx8j</odePageId>
+          <odePageId>page-mpwx901d-dsld5ftop</odePageId>
           <odeBlockId>block-1780162939887-mlkyiklj9</odeBlockId>
           <odeIdeviceId>idevice-1780162939882-ofhh4c917</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
